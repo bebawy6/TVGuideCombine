@@ -51,7 +51,7 @@ Code:          # for Combine4XML.bat
    C:\EPG\TVGuideCombine.exe c:\EPG\FinalTVguide.xml c:\EPG\guide1-2.xml c:\EPG\guide3-4.xml
    
    
-  When you run Combine4XML.bat, here's what will happen:  
+   When you run Combine4XML.bat, here's what will happen:  
 
 a guide1-2.xml file will be created in the EPG directory
 
@@ -65,13 +65,15 @@ a FinalTVguide.xml file will be created in the EPG directory
 
 the guide1-2.xml & guide3-4.xml are combined into 1 FinalTVguide.xml in the EPG directory
 
+
 this is the workaround to combine 4 files.
  
 
 
-**when needed feel free to change the directory name and the Guide.xml file.
+**  when needed feel free to change the directory name and the Guide.xml file.
 
-I wish you finally find easy way to combine xml files easly and fast.
+           
+		   I wish you finally find easy way to combine xml files easly and fast.
 
 
  
