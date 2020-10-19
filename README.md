@@ -18,7 +18,7 @@ Guide01.xml    # the first Guide to combine
 
 Guide02.xml    # the second Guide to combine
 
-
+            ======
 
 Code:          # for Combine2XML.bat 
 
@@ -26,6 +26,7 @@ Code:          # for Combine2XML.bat
    
    C:\EPG\TVGuideCombine.exe c:\EPG\FinalTVguide.xml c:\EPG\Guide01.xml c:\EPG\Guide02.xml
    
+            ======
    
   When you run Combine2XML.bat, here's what will happen:  
  
@@ -49,7 +50,8 @@ Code:          # for Combine4XML.bat
    C:\EPG\TVGuideCombine.exe c:\EPG\guide3-4.xml c:\EPG\Guide03.xml c:\EPG\Guide04.xml
    
    C:\EPG\TVGuideCombine.exe c:\EPG\FinalTVguide.xml c:\EPG\guide1-2.xml c:\EPG\guide3-4.xml
-   
+
+            ======   
    
    When you run Combine4XML.bat, here's what will happen:  
 
