@@ -72,10 +72,10 @@ this is the workaround to combine 4 files.
  
 
 
-**  when needed feel free to change the directory name and the Guide.xml file.
+**  Use Notepad to edite the bat file to change the directory name and the Guide.xml file name to serve your need.
 
            
-		   I wish you finally find easy way to combine xml files easly and fast.
+		   I wish you finally found your way to combine xml files easly and fast.
 
 
  
